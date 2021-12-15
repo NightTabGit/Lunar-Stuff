@@ -3,7 +3,7 @@ A collection of MC Agents for the LCQT Launcher (A wrapper for Lunar Client)
 
 # Sources
 
-**Lunar Enable, KunarHitDelayFix and NoPinnedServers: ** https://github.com/Nilsen84/lunar-client-agents
+**Lunar Enable, KunarHitDelayFix and NoPinnedServers:**  https://github.com/Nilsen84/lunar-client-agents
 
 # Lunar Enable
 **Unlocks Freelook and AutoTextHotKey.**
