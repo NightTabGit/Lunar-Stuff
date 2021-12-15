@@ -12,7 +12,8 @@ https://github.com/Nilsen84/lunar-client-qt/releases/download/1.1/lunarclientqt-
 
 # Sources
 
-**Lunar Enable, KunarHitDelayFix and NoPinnedServers:**  https://github.com/Nilsen84/lunar-client-agents
+**Lunar Enable, LunarHitDelayFix and NoPinnedServers:**  https://github.com/Nilsen84/lunar-client-agents
+**CPatcher:** https://github.com/ArcaneCiCi/CPatcher
 
 # Lunar Enable
 **Unlocks Freelook and AutoTextHotKey.**
