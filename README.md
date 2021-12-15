@@ -1,6 +1,10 @@
 # Lunar-Agents
 A collection of MC Agents for the LCQT Launcher (A wrapper for Lunar Client)
 
+Use these with LCQT, an open source Lunar Client wrapper. 
+
+LCQT basically, in a nutshell, launches Lunar Client with sme custom code, so you can do fancy things to it, like change the window title, or remove pinned servers.
+
 # Sources
 
 **Lunar Enable, KunarHitDelayFix and NoPinnedServers:**  https://github.com/Nilsen84/lunar-client-agents
