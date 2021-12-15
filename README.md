@@ -5,6 +5,11 @@ Use these with LCQT, an open source Lunar Client wrapper.
 
 LCQT basically, in a nutshell, launches Lunar Client with sme custom code, so you can do fancy things to it, like change the window title, or remove pinned servers.
 
+Source / Repo: https://github.com/Nilsen84/lunar-client-qt
+Direct Download: 
+https://github.com/Nilsen84/lunar-client-qt/releases/download/1.1/windows-x64.zip (Windows)
+https://github.com/Nilsen84/lunar-client-qt/releases/download/1.1/lunarclientqt-linux-x64 (Linux)
+
 # Sources
 
 **Lunar Enable, KunarHitDelayFix and NoPinnedServers:**  https://github.com/Nilsen84/lunar-client-agents
