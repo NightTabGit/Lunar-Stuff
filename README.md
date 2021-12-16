@@ -55,6 +55,7 @@ If you want the default AUTH and ASSET_URL set them both to be:
 `ASSET_URL=default
 AUTH_URL=default`
 
-`"I cant see my cosmetics!"` - Change the first line of the propertise file to be `ASSET_URL=default`.\n
+`"I cant see my cosmetics!"` - Change the first line of the propertise file to be `ASSET_URL=default`.
+
 `"How do I change the title?"` - Change the last line of the propertise file to be `TITLE=YourTitleNameHere`, replacing `YourTitleNameHere` with, of course, your title.
 
