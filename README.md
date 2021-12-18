@@ -59,3 +59,19 @@ AUTH_URL=default`
 
 `"How do I change the title?"` - Change the last line of the propertise file to be `TITLE=YourTitleNameHere`, replacing `YourTitleNameHere` with, of course, your title.
 
+
+# How to prevent Lunar Client updating.
+
+Basically, whenever Lunar Client updates, its mappings change (Maybe a lot, sometimes not a lot). 
+
+Some cheats, for example, Whiteout and Ploow, need up-to-date mappings of this new Lunar Client.
+
+When Lunar Client updates, these clients may take from a few hours, to days to update thier mappings, to the new Lunar Client.
+
+To prevent not being able to use the cheats with Lunar for the days where its not supported, launch using an external wrapper for Lunar client.
+
+This launcher, will prevent Lunar client from being updated, therefore meaning, if you **always** launch with LC-QT or LCL, you will have the version of Lunar Client, that is supported, and has the same mappings.
+
+Then, once your desired client (Whiteout, Ploow, etc) updates, you may launch Lunar from the **official** launcher, and update Lunar Client to the correct version.
+
+Then, keep launching using LC-QT or LCL to prevent it from updating the next time Lunar pushes an update.
