@@ -81,7 +81,11 @@ Then, keep launching using LC-QT or LCL to prevent it from updating the next tim
 If you already have the most updated version, you must find someone who hasnt updated Lunar Client yet, and ask them for thier files.
 
 1 - Navigate to `Local Disk C -> Users -> YOURUSER -> .lunarclient -> offline`. You should see some folders in there, named `1.8.9`,`1.7`, etc.
+
 2 - Download the old folder from someone else.
+
 3 - Delete the `1.8.9` folder from your `.lunarclient` folder.
+
 4 - Replace with the old 1.8.9 folder that you downloaded from someone else. (MAKE SURE YOU TRUST THEM).
+
 5 - Launch with LC-QT or LCL to prevent Lunar from updating.
