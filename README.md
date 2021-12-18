@@ -49,7 +49,7 @@ To use, just add it to the Agents tab in LCQT.
 
 - To build, download the source `https://github.com/ArcaneCiCi/CPatcher`, open in Idea/Eclipse and install the Maven project. Using the Maven project, run the build / compile command.
 
-- To modify the properties go to: C:\%userprofile%\Dell\.lunarclient and in the file `cpatcher.properties`.
+- To modify the properties go to: C:\%userprofile%\.lunarclient and in the file `cpatcher.properties`.
 
 If you want the default AUTH and ASSET_URL set them both to be:
 `ASSET_URL=default
