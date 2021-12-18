@@ -1,13 +1,3 @@
-# Contents
-
-<details open>
-<summary>Whats included</summary>
-<br>
-  - https://github.com/NightTabGit/Luna/blob/main/README.md#lunar-agents
-  -
-</details>
-
-
 
 # Lunar-Agents
 A collection of MC Agents for the LCQT Launcher (A wrapper for Lunar Client)
