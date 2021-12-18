@@ -3,7 +3,8 @@
 <details open>
 <summary>Whats included</summary>
 <br>
--
+  - https://github.com/NightTabGit/Luna/blob/main/README.md#lunar-agents
+  -
 </details>
 
 
