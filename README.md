@@ -90,3 +90,7 @@ If you already have the most updated version, you must find someone who hasnt up
 4 - Replace with the old 1.8.9 folder that you downloaded from someone else. (MAKE SURE YOU TRUST THEM).
 
 5 - Launch with LC-QT or LCL to prevent Lunar from updating.
+
+# Issues
+
+Clients such as Vape Lite and Vape V4, do not crash upon injecting into a modified Lunar Client (To an extent), but clients such as Whiteout are prone to crashing when not on version **06e602c2**, and with a modified window title not including **Lunar Client (1.x.x-clientversion/master)**, due to it possibly reading the client version from title? (Unknown) so DON'T use CPatcher do modify title name, but feel free to patch AUTH_URL and ASSET_URL.
