@@ -94,3 +94,7 @@ If you already have the most updated version, you must find someone who hasnt up
 # Issues
 
 Clients such as Vape Lite and Vape V4, do not crash upon injecting into a modified Lunar Client (To an extent), but clients such as Whiteout are prone to crashing when not on version **06e602c2**, and with a modified window title not including **Lunar Client (1.x.x-clientversion/master)**, due to it possibly reading the client version from title? (Unknown) so DON'T use CPatcher do modify title name, but feel free to patch AUTH_URL and ASSET_URL.
+
+# Entropy
+
+From testing, entropy requires a custom JRE path on LC-QT to work. Just navighate to the feault Javaw.exe in the minecraft launcher folder and use that.
