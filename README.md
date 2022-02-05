@@ -97,4 +97,4 @@ Clients such as Vape Lite and Vape V4, do not crash upon injecting into a modifi
 
 # Entropy
 
-From testing, entropy requires a custom JRE path on LC-QT to work. Just navighate to the feault Javaw.exe in the minecraft launcher folder and use that.
+From testing, entropy requires a custom JRE path on LC-QT to work. Just navigate to the feault Javaw.exe in the minecraft launcher folder and use that.
